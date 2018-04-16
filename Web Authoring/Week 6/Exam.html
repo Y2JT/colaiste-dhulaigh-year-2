@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Exam</title>
+	</head>
+		<body>
+			<script>
+			var name;
+			var temperature;
+			var F;
+			name = prompt('<b>What is your name?</b>');
+			temperature = prompt('<b>What is todays temperature in <i>Celsius?</i></b>');
+			F = (32 + temperature * 1.8);
+			document.write("<h1>" + name + ", today's temperature is: " + F +  "&deg; Fahrenheit</h1>");
+			if (F > 50){
+			document.body.style.backgroundColor = "Red";
+			}
+			else if(F <= 50){
+			document.body.style.backgroundColor = "LightBlue";
+			}
+			</script>
+		</body>
+</html>

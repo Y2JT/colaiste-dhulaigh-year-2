@@ -1,0 +1,62 @@
+/**
+ * @(#)WriteToFile.java
+ *Writing to a file for Assignment 2
+ *
+ * @author
+ * @version 1.00 2016/4/7
+ */
+
+import java.util.Date;
+import java.io.*;
+
+public class WriteToFile {
+
+    public static void main (String args[]) {
+
+		//Don't need this array,
+		String names[] = {"Fred", "Ted", "Bill", "Ben"};
+
+    	//write to a file
+		BufferedWriter Information = null;
+		String loc1 = "test.doc";
+
+		try{
+			Information = new BufferedWriter (new FileWriter(loc1,true));
+		}catch(Exception e){
+			System.out.println("No access to the file location");
+		}
+
+		//not names.length, it will be collegeStudents (or the name of your student array)
+	    for (int i = 0;i<names.length;i++){
+
+		   	try{
+
+				Information.newLine();
+
+				Information.write(names[i]);
+				//not names.length, it will be collegeStudents (or the name of your student array)
+				if(i==names.length-1){
+					Information.newLine();
+					Information.close();
+					Date d = new Date();
+					System.out.println("\nFile Updated on " + d.toString() + "\n");
+				}//end if
+
+			}//end try
+				catch(Exception ex){
+					System.out.println("Could not access file");
+			}//end catch
+
+		}//end for
+
+
+		//end of writing to a file
+
+
+
+	//System.out.println("\nFile updated\n");
+	System.out.println("Thank you for using CAO online\n\n");
+    }//end main method
+
+
+}//end class

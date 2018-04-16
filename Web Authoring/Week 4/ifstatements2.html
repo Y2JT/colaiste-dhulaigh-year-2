@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>if statements</title>
+	</head>
+		<body>
+			<script type="text/javascript">
+			
+			var d = new Date();
+			var time = d.getHours();
+			if (time < 10) {
+			document.write("<b>Good morning</b>");
+			document.body.style.backgroundColor = "BurlyWood";
+			}
+			else if (time>=10 && time<16){
+			document.write("<b>Good afternoon</b>");
+			document.body.style.backgroundColor = "IndianRed";
+			}
+			else{
+			document.write("<b>Good evening</b>");
+			document.body.style.backgroundColor = "Maroon";
+			}
+			
+			</script>
+		</body>
+</html>

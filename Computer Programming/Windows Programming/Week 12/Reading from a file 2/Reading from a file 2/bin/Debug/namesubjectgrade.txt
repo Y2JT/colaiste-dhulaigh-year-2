@@ -1,0 +1,8 @@
+Joey,Prog,82
+Tom,Prog,60
+CORAAALL,Prog,35
+Phil,Prog,21
+Rick,Web,88
+Morgan,Web,73
+Chuck,Web,42
+Sarah,Web,31

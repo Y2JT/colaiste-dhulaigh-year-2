@@ -1,0 +1,32 @@
+Dim nom as input box
+
+If ucase name = nom
+
+   If txtSearch.Text = "" Then
+            MessageBox.Show("Please Enter a Student Name")
+            txtSearch.Focus()
+            Exit Sub
+        End If
+
+        'while the flag is false
+        While flag = False
+            'start the loop
+            For i = 0 To numrecords
+                If names(i) = txtSearch.Text Then
+                    'change flag to true
+                    flag = True
+                    'display the record
+                    txtID.Text = id(i)
+                    txtName.Text = names(i)
+                    txtAddress.Text = address(i)
+                    txtPhone.Text = phone(i)
+                    txtCourse.Text = course(i)
+                    txtGrade.Text = grade(i)
+
+                    array = i
+                    'update the label
+                    lblPosition.Text = position + 1 & " of " & numrecords
+                    txtSearch.Text = ""
+                End If
+            Next
+        End While

@@ -1,0 +1,6 @@
+Joey,21,Dublin
+John,34,Cork
+Chloe,27,Belfast
+Rick,32,Louth
+Evie,22,Dublin
+Patrick,46,Meath

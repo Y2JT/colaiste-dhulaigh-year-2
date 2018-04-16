@@ -1,0 +1,12 @@
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\bin\Debug\Question 5.exe.config
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\bin\Debug\Question 5.exe
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\bin\Debug\Question 5.pdb
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\bin\Debug\Question 5.xml
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\obj\Debug\Question 5.vbprojResolveAssemblyReference.cache
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\obj\Debug\Question_5.Form1.resources
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\obj\Debug\Question_5.Resources.resources
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\obj\Debug\Question 5.vbproj.GenerateResource.Cache
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\obj\Debug\Question 5.exe
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\obj\Debug\Question 5.xml
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\obj\Debug\Question 5.pdb
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 5\Question 5\obj\Debug\Question_5.Form2.resources

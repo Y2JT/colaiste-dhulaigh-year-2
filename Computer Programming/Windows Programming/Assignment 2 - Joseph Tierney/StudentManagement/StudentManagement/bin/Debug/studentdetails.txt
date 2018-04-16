@@ -1,0 +1,7 @@
+1,Joey,Dublin,55222,Computer Science,82
+2,Tom,Cork,43212,Film Production,23
+3,Frankie,Dublin,67812,Computer Science,44
+4,Evie,Dublin,88123,Photography,88
+5,John,Murica,1554,Thuganomics,100
+6,Jacob,Dublin,52234,Computers,44
+7,Rick Grimes,Murica,1234567,TWD,100

@@ -1,0 +1,7 @@
+Joey,Dublin,22
+Tom,Meath,31
+Evie,Dublin,22
+Carl,Dublin,20
+Siobhan,Cork,20
+Fred,Kerry,42
+Tim,Down,43

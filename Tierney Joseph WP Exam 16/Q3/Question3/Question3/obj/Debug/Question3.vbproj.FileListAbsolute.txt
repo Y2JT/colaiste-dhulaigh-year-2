@@ -1,0 +1,10 @@
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\bin\Debug\Question3.exe.config
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\bin\Debug\Question3.exe
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\bin\Debug\Question3.pdb
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\bin\Debug\Question3.xml
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\obj\Debug\Question3.Form1.resources
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\obj\Debug\Question3.Resources.resources
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\obj\Debug\Question3.vbproj.GenerateResource.Cache
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\obj\Debug\Question3.exe
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\obj\Debug\Question3.xml
+T:\Tierney Joseph WP Exam 16\Q3\Question3\Question3\obj\Debug\Question3.pdb

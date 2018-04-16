@@ -1,0 +1,23 @@
+Towers: http://configure.euro.dell.com/dellstore/config.aspx?oc=bdx8924&model_id=xps-8900-desktop&c=ie&l=en&s=bsd&cs=iebsdt1
+
+Server:http://www.dell.com/ie/business/p/poweredge-t320/pd
+
+Monitor: http://configure.euro.dell.com/dellstore/config.aspx?c=ie&cs=iebsdt1&kc=305&l=en&oc=E2016&s=bsd&sbc=dell-e2016-monitor
+
+Switch: http://www.dell.com/ie/business/p/networking-n1500-series/pd
+
+Rack: http://www.cablemonkey.ie/600mm-x-1000mm-ccs-server-cabinets-racks/175-12u-600mmw-x-1000mmd-ccs-server-cabinet.html#/doors-meshfrontrear/sidepanels-withsides/castors-transitcastors/rooffans-2wayfanunit
+
+Router: http://www.cisco.com/c/en/us/products/routers/asr-1013-router/index.html
+
+Cable: http://www.freetv.ie/100m-ethernet-cable.html
+
+Laser Printer: http://www.amazon.com/Brother-Business-Wireless-Networking-HLL6200DW/dp/B01824JTWK
+
+Laser Priner 2: http://www1.euro.dell.com/content/products/productdetails.aspx/dell-s2815dn-printer?c=ie&cs=iedhs1&l=en&s=dhs
+
+Adobe Products: http://shop.adobe.com/
+
+Router Price: http://www.secureitstore.com/ASR-1013.asp
+
+Colour Printer: http://www.pcworld.ie/Product/hp-envy-5644-allinone-inkjet-printer/324636/408.0

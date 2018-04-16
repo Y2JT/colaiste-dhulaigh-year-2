@@ -1,0 +1,48 @@
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\bin\Debug\StudentManagement.xml
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Resources.resources
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.vbproj.GenerateResource.Cache
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.xml
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form2.resources
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.xml
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\bin\Debug\StudentManagement.xml
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.vbprojResolveAssemblyReference.cache
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form2.resources
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Resources.resources
+F:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.vbproj.GenerateResource.Cache
+E:\Year 2\Computer Programming\Windows Programming\Programming Controls\StudentManagement\StudentManagement\obj\Debug\StudentManagement.vbprojResolveAssemblyReference.cache
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.xml
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\bin\Debug\StudentManagement.xml
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form2.resources
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Resources.resources
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.vbproj.GenerateResource.Cache
+F:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.vbprojResolveAssemblyReference.cache
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.xml
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\bin\Debug\StudentManagement.xml
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.vbprojResolveAssemblyReference.cache
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form1.resources
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Form2.resources
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.Resources.resources
+E:\Year 2\Computer Programming\Windows Programming\Assignment 2 - Joseph Tierney\StudentManagement\StudentManagement\obj\Debug\StudentManagement.vbproj.GenerateResource.Cache

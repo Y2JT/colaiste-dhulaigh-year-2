@@ -1,0 +1,14 @@
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\bin\Debug\InsuranceQuote.exe.config
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\bin\Debug\InsuranceQuote.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\bin\Debug\InsuranceQuote.pdb
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\bin\Debug\InsuranceQuote.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\obj\Debug\InsuranceQuote.Form1.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\obj\Debug\InsuranceQuote.Resources.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\obj\Debug\InsuranceQuote.vbproj.GenerateResource.Cache
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\obj\Debug\InsuranceQuote.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\obj\Debug\InsuranceQuote.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\obj\Debug\InsuranceQuote.pdb
+F:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\bin\Debug\InsuranceQuote.exe.config
+F:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\obj\Debug\InsuranceQuote.exe
+F:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\obj\Debug\InsuranceQuote.xml
+F:\Year 2\Computer Programming\Windows Programming\Week 3\InsuranceQuote\InsuranceQuote\obj\Debug\InsuranceQuote.pdb

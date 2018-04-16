@@ -1,0 +1,11 @@
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\bin\Debug\Crud.exe.config
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\bin\Debug\Crud.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\bin\Debug\Crud.pdb
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\bin\Debug\Crud.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\obj\Debug\Crud.Form1.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\obj\Debug\Crud.Form2.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\obj\Debug\Crud.Resources.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\obj\Debug\Crud.vbproj.GenerateResource.Cache
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\obj\Debug\Crud.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\obj\Debug\Crud.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 16\Crud\Crud\obj\Debug\Crud.pdb

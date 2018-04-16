@@ -1,0 +1,10 @@
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\bin\Debug\Question 3 Again.exe.config
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\bin\Debug\Question 3 Again.exe
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\bin\Debug\Question 3 Again.pdb
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\bin\Debug\Question 3 Again.xml
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\obj\Debug\Question_3_Again.Form1.resources
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\obj\Debug\Question_3_Again.Resources.resources
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\obj\Debug\Question 3 Again.vbproj.GenerateResource.Cache
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\obj\Debug\Question 3 Again.exe
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\obj\Debug\Question 3 Again.xml
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 3 Again\Question 3 Again\obj\Debug\Question 3 Again.pdb

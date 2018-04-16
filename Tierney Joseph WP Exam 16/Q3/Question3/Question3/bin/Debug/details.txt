@@ -1,0 +1,6 @@
+Joey,CompSci,80
+Carl,Media,45
+Daryl,Film,50
+Sherry,Sports,89
+Rick,CompSci,56
+Ron,Business,23

@@ -1,0 +1,15 @@
+http://book.itep.ru/depository/crypto/Cryptography_history.pdf	(November 11, 2015)
+
+http://www.moellerhaus.com/rosetta/rosetta.htm
+
+http://williamstallings.com/Extras/Security-Notes/lectures/classical.html
+
+https://en.wikipedia.org/wiki/Scytale#/media/File:Skytale.png
+
+http://www.faqs.org/espionage/Cou-De/Cryptology-History.html	(November 11, 2015)
+
+http://www.garykessler.net/library/crypto.html
+
+http://searchsecurity.techtarget.com/definition/Data-Encryption-Standard
+
+http://www.eventid.net/show-DocId-19.htm

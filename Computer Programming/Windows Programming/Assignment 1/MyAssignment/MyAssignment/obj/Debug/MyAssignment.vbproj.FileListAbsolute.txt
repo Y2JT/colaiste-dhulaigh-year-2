@@ -1,0 +1,15 @@
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\bin\Debug\MyAssignment.exe.config
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\bin\Debug\MyAssignment.exe
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\bin\Debug\MyAssignment.pdb
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\bin\Debug\MyAssignment.xml
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.Form1.resources
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.Resources.resources
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.vbproj.GenerateResource.Cache
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.exe
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.xml
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.pdb
+E:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.Form2.resources
+D:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\bin\Debug\MyAssignment.exe.config
+D:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.exe
+D:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.xml
+D:\Year 2\Computer Programming\Windows Programming\Assignment 1\MyAssignment\MyAssignment\obj\Debug\MyAssignment.pdb

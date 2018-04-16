@@ -1,0 +1,14 @@
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\bin\Debug\Reading from files 1.exe.config
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\bin\Debug\Reading from files 1.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\bin\Debug\Reading from files 1.pdb
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\bin\Debug\Reading from files 1.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\obj\Debug\Reading_from_files_1.Form1.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\obj\Debug\Reading_from_files_1.Resources.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\obj\Debug\Reading from files 1.vbproj.GenerateResource.Cache
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\obj\Debug\Reading from files 1.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\obj\Debug\Reading from files 1.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\obj\Debug\Reading from files 1.pdb
+F:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\bin\Debug\Reading from files 1.exe.config
+F:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\obj\Debug\Reading from files 1.exe
+F:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\obj\Debug\Reading from files 1.xml
+F:\Year 2\Computer Programming\Windows Programming\Week 12\Reading from files 1\Reading from files 1\obj\Debug\Reading from files 1.pdb

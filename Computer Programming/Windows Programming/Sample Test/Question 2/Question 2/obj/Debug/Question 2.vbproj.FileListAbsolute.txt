@@ -1,0 +1,11 @@
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\bin\Debug\Question 2.exe.config
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\bin\Debug\Question 2.exe
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\bin\Debug\Question 2.pdb
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\bin\Debug\Question 2.xml
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\obj\Debug\Question 2.vbprojResolveAssemblyReference.cache
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\obj\Debug\Question_2.Form1.resources
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\obj\Debug\Question_2.Resources.resources
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\obj\Debug\Question 2.vbproj.GenerateResource.Cache
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\obj\Debug\Question 2.exe
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\obj\Debug\Question 2.xml
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 2\Question 2\obj\Debug\Question 2.pdb

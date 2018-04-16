@@ -1,0 +1,15 @@
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.pdb
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Form1.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Resources.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.vbproj.GenerateResource.Cache
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb
+E:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.Form2.resources
+F:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+F:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.exe
+F:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.xml
+F:\Year 2\Computer Programming\Windows Programming\Week 6\ClassAssignment\ClassAssignment\obj\Debug\ClassAssignment.pdb

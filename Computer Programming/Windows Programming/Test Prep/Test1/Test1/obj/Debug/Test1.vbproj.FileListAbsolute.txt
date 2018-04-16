@@ -1,0 +1,10 @@
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\bin\Debug\Test1.exe.config
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\bin\Debug\Test1.exe
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\bin\Debug\Test1.pdb
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\bin\Debug\Test1.xml
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\obj\Debug\Test1.Form1.resources
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\obj\Debug\Test1.Resources.resources
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\obj\Debug\Test1.vbproj.GenerateResource.Cache
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\obj\Debug\Test1.exe
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\obj\Debug\Test1.xml
+E:\Year 2\Computer Programming\Windows Programming\Test Prep\Test1\Test1\obj\Debug\Test1.pdb

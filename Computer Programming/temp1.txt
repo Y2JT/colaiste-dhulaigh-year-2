@@ -1,0 +1,6 @@
+Dim temp1 as String
+dim temp2 as integer
+
+edit:
+temp1 = nametextbox.text
+temp2 = balancetextbox.text

@@ -1,0 +1,68 @@
+<!DOCTYPE html><!-- This file uses HTML5-->
+<html>
+	<head>
+	<link rel="shortcut icon" href="images/icons/logo.ico" />
+		<title>WWE</title>
+		<link rel="stylesheet" href="css/style.css"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+		<script src="js/main.js"></script>
+    </head>
+	
+	<body> <!-- This is the start of the web page-->
+	
+	    <header><!-- This is the Header bar-->
+		         <figure id ="logo">
+				 <img src="images/logo.png" height="100" width="100">
+				 </figure>
+		         <h1>World Wrestling Entertainment</h1>
+				 <ul>
+		           <li><a href="http://www.wwe.com/shows/wwenxt"target = "_blank"><img src="images/nxtlogo.png" alt="" height="45" width="45"/></a></li>
+				   <li><a href="http://www.wwe.com/shows/smackdown"target = "_blank"><img src="images/sdlogo1.png" alt=""height="45" width="45"/></a></li>
+				   <li><a href="http://www.wwe.com/shows/raw"target = "_blank"><img src="images/rawlogo.png" alt=""/height="45" width="45"></a></li>
+			    </ul>
+		</header>
+		
+		
+		<nav><!-- This is the Navigation bar-->
+			<a href="index.html">Home</a>
+			|<a href="about.html">About</a>
+			|<a href="board.html">Board of Directors</a>
+			|<a href="superstars.html">Superstars</a>
+			|<a href="shows.html">Shows</a>
+			|<a href="contact.html">Contact</a>
+			<div id="time">
+			<!-- JAVASCRIPT 5: DYNAMIC PAGE UPDATE -->
+				<input type="button" onclick ="timeDigtal()" value ="Time is"/>
+				</div>
+		</nav>
+		
+		<main> <!-- This is  the main content -->
+			<section>
+			<!-- JAVASCRIPT 2: SLIDESHOW -->
+					<div id="slideshow-container">
+			<figure id="slideshow">
+				<img src="images/news/1.jpg" alt>
+				<img src="images/news/2.jpg" alt>
+				<img src="images/news/3.jpg" alt>
+				<img src="images/news/4.jpg" alt>
+				<img src="images/news/5.jpg" alt>
+				<img src="images/news/6.jpg" alt>
+			</figure>
+		</div>
+			</section>
+			<div id="twitter">
+			<a class="twitter-timeline" width="255" height="415" href="https://twitter.com/WWE" data-widget-id="696457069847830529">Tweets by @WWE</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+		</main>
+		
+		<footer> <!-- This is the Footer bar-->
+		        <ul>
+		          <li><a href="http://www.facebook.com/WWE"target = "_blank" ><img src="images/facebook-white.png" alt="" height="15" width="15"/></a></li>
+				  <li><a href="http://www.twitter.com/WWE"target = "_blank"><img src="images/twitter-white.png" alt="" height="15" width="15"/></a></li>
+				  <li><a href="http://www.youtube.com/WWE"target = "_blank"><img src="images/youtube-white.png" alt="" height="15" width="15"/></a></li>
+			    </ul>
+		         &copy; Joseph Tierney 2016
+		</footer>
+    </body>
+</html>

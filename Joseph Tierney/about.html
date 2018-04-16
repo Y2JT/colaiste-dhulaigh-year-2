@@ -1,0 +1,93 @@
+<!DOCTYPE html><!-- This file uses HTML5-->
+<html>
+	<head>
+		<link rel="shortcut icon" href="images/icons/logo.ico"/>
+		<title>WWE</title>
+		<link rel="stylesheet" href="css/style.css"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+		<script src="js/main.js"></script>
+    </head>
+	
+	<body> <!-- This is the start of the web page-->
+	
+	    <header><!-- This is the Header bar-->
+		         <figure id ="logo">
+				 <img src="images/logo.png" height="100" width="100">
+				 </figure>
+		         <h1>About</h1>
+				 <ul>
+		           <li><a href="http://www.wwe.com/shows/wwenxt"target = "_blank"><img src="images/nxtlogo.png" alt="" height="45" width="45"/></a></li>
+				   <li><a href="http://www.wwe.com/shows/smackdown"target = "_blank"><img src="images/sdlogo1.png" alt=""height="45" width="45"/></a></li>
+				   <li><a href="http://www.wwe.com/shows/raw"target = "_blank"><img src="images/rawlogo.png" alt=""/height="45" width="45"></a></li>
+			    </ul>
+		</header>
+		
+		<nav><!-- This is the Navigation bar-->
+			<a href="index.html">Home</a>
+			|<a href="about.html">About</a>
+			|<a href="board.html">Board of Directors</a>
+			|<a href="superstars.html">Superstars</a>
+			|<a href="shows.html">Shows</a>
+			|<a href="contact.html">Contact</a>
+		</nav>
+		
+		<main> <!-- This is  the main content -->
+			<section>
+				<figure id="dev"><!-- This is figure box for the developers image -->
+				<!-- JAVASCRIPT 7: IMAGE ROLL OVER -->
+		            <img id="myImage" onclick="changeImage()" src="images/about.png"/>
+			    </figure><!-- End Figure-->
+			       <h2>About the Company</h2>
+                   <p>World Wrestling Entertainment is an American publicly traded, privately controled entertainment company,
+				   that primarly deals with professional wrestling. As of 2016, it is the largest wrestling promotion in the world,
+				   holding over 300 events a year, and broadcasting to about 36 million viewers in more than 150 countires.</p>
+				   
+				   <p>As in other professional wrestling promotions, WWE shows are not legitimate contests, but purely entertainment-based, 
+				   featuring storyline-driven, scripted, and choreographed matches, though they often include moves that can put performers at risk of 
+				   injury if not performed correctly. This was first publicly acknowledged by WWE's owner Vince McMahon in 1989 to avoid taxes from 
+				   athletic commissions. Since the 1980s, WWE publicly branded their product as sports entertainment, which is considered to acknowledge 
+				   the product's roots in competitive sport and dramatic theater.</p>
+				   
+				   <p>The company's majority owner is its chairman and CEO, Vince McMahon. Along with his wife Linda, children Shane and Stephanie, 
+				   and son-in-law Paul Levesque (known professionally as Triple H), the McMahon family holds approximately 70% of WWE's equity and 
+				   96% of the voting power.</p>
+				   
+				   <!-- JAVASCRIPT 4: NEW WINDOW -->
+					<p><button onclick="newWindow()">WWE's Official Website</button></p>
+					   
+				    <!-- Begin Personal Information -->
+                    <article id="personal">
+                      <ul>
+                        <li><img src="images/icons/icn-ad.gif"/> 1241 East Main Street, Stamford, Connecticut, US</li>
+                        <li><img src="images/icons/icn-mail.gif"/> contactwwe@wwe.com</li>
+                        <li><img src="images/icons/icn-tel.gif"/> (203) 352-8600</li>
+                        <li><img src="images/icons/icn-web.gif"/> www.wwe.com</li>
+                     </ul>
+                    </article>
+                    <!-- End Personal Information -->
+                    <!-- Begin Social Media -->
+                   <article id="social">
+                     <ul>
+                       <li><a href="contactwwe@wwe.com" title="Contact WWE"><img src="images/icons/icn-contact.jpg" /></a></li>
+                       <li><a href="http://www.twitter.com/WWE"target = "_blank" title="Follow WWE on Twitter"><img src="images/icons/icn-twitter.jpg" /></a></li>
+                       <li><a href="http://www.facebook.com/WWE"target = "_blank" title="WWE Facebook Profile"><img src="images/icons/icn-facebook.jpg" /></a></li>
+                     </ul>
+                   </article>
+                  <!-- End Social Media -->
+			</section>
+			<div id="twitter">
+			<a class="twitter-timeline" width="255" height="740" href="https://twitter.com/WWE" data-widget-id="696457069847830529">Tweets by @WWE</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+			</div>
+	    </main>
+		
+		<footer> <!-- This is the Footer bar-->
+		        <ul>
+		          <li><a href="http://www.facebook.com/WWE"target = "_blank"><img src="images/facebook-white.png" alt="" height="15" width="15"/></a></li>
+				  <li><a href="http://www.twitter.com/WWE"target = "_blank"><img src="images/twitter-white.png" alt="" height="15" width="15"/></a></li>
+				  <li><a href="http://www.youtube.com/WWE"target = "_blank"><img src="images/youtube-white.png" alt="" height="15" width="15"/></a></li>
+			    </ul>
+		         &copy; Joseph Tierney 2016
+		</footer>
+    </body>
+</html>

@@ -1,0 +1,11 @@
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\bin\Debug\Question 1 Again.exe.config
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\bin\Debug\Question 1 Again.exe
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\bin\Debug\Question 1 Again.pdb
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\bin\Debug\Question 1 Again.xml
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\obj\Debug\Question 1 Again.vbprojResolveAssemblyReference.cache
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\obj\Debug\Question_1_Again.Form1.resources
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\obj\Debug\Question_1_Again.Resources.resources
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\obj\Debug\Question 1 Again.vbproj.GenerateResource.Cache
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\obj\Debug\Question 1 Again.exe
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\obj\Debug\Question 1 Again.xml
+F:\Year 2\Computer Programming\Windows Programming\Sample Test\Question 1 Again\Question 1 Again\obj\Debug\Question 1 Again.pdb

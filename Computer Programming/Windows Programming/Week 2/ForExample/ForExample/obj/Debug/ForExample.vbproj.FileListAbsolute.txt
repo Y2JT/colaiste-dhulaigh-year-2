@@ -1,0 +1,10 @@
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\bin\Debug\ForExample.exe.config
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\bin\Debug\ForExample.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\bin\Debug\ForExample.pdb
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\bin\Debug\ForExample.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\obj\Debug\ForExample.Form1.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\obj\Debug\ForExample.Resources.resources
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\obj\Debug\ForExample.vbproj.GenerateResource.Cache
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\obj\Debug\ForExample.exe
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\obj\Debug\ForExample.xml
+E:\Year 2\Computer Programming\Windows Programming\Week 2\ForExample\ForExample\obj\Debug\ForExample.pdb

@@ -1,0 +1,95 @@
+<!DOCTYPE html><!-- This file uses HTML5-->
+<html>
+	<head>
+		<link rel="shortcut icon" href="images/icons/logo.ico"/>
+		<title>WWE</title>
+		<link rel="stylesheet" href="css/style.css"/>
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+		<script src="js/main.js"></script>
+    </head>
+	
+	<body> <!-- This is the start of the web page-->
+	
+	    <header><!-- This is the Header bar-->
+		         <figure id ="logo">
+				 <img src="images/logo.png" height="100" width="100">
+				 </figure>
+		         <h1>Shows</h1>
+				 <ul>
+		           <li><a href="http://www.wwe.com/shows/wwenxt"target = "_blank"><img src="images/nxtlogo.png" alt="" height="45" width="45"/></a></li>
+				   <li><a href="http://www.wwe.com/shows/smackdown"target = "_blank"><img src="images/sdlogo1.png" alt=""height="45" width="45"/></a></li>
+				   <li><a href="http://www.wwe.com/shows/raw"target = "_blank"><img src="images/rawlogo.png" alt=""/height="45" width="45"></a></li>
+			    </ul>
+		</header>
+		
+		<nav><!-- This is the Navigation bar-->
+			<a href="index.html">Home</a>
+			|<a href="about.html">About</a>
+			|<a href="board.html">Board of Directors</a>
+			|<a href="superstars.html">Superstars</a>
+			|<a href="shows.html">Shows</a>
+			|<a href="contact.html">Contact</a>
+		</nav>
+		
+		<main> <!-- This is  the main content -->
+			<section>
+				<figure id="dev"><!-- This is figure box for the developers image -->
+		             <a href="http://www.wwe.com/shows/raw"target = "_blank"><img src="images/showsraw.png" alt=""/></a>
+					 <a href="http://www.wwe.com/shows/smackdown"target = "_blank"><img src="images/showssd.png" alt=""/></a>
+					 <a href="http://www.wwe.com/shows/wwenxt"target = "_blank"><img src="images/showsnxt.png" alt=""/></a>
+			    </figure><!-- End Figure-->
+					<h2>Current Weekly Programming</h2>
+                   <p>Monday Night <font color="red"><b>RAW</b></font> is WWE's flagship show, that airs every Monday at 8/7c on the USA Network in the United States, and 1am in 
+				   the UK and Ireland on Sky Sports 3. The show debuted on January 11, 1993 and has since been considered as the flagship 
+				   program of WWE. Since its first episode, Raw has broadcast live from 208 different arenas in 171 cities and towns in ten different
+				   nations. As of the show's 1,000th episode that aired on July 23, 2012, Raw has become a three-hour 
+				   broadcast from two hours, a format that had previously been reserved for special episodes.</p>
+				   
+				   <p>WWE <font color="blue"><b>SmackDown</b></font>, simply known as SmackDown is a sports entertainment television program that debuted on August 26, 1999. Prior to
+				   September 1, 2005, SmackDown! was broadcast on Thursday nights; from September 9, 2005 to January 9, 2015, it was broadcast on 
+				   Friday nights. The show returned to Thursday nights on January 15, 2015. On January 7, 2016, SmackDown moved to its sister channel, USA Network. It complements WWE Raw as the second of 
+				   WWE's two main weekly programs.</p>
+				   
+				   <p>WWE's developmental territory, Florida Championship Wrestling, changed its name to <font color="orange"><b>NXT Wrestling</b></font>
+				   and the various FCW championships were replaced by corresponding NXT championships, including the NXT Championship and NXT Tag Team Championship. 
+				   NXT thus ceased to become a seasonal competition between Rookies and instead became a developmental territory. Starting with NXT 
+				   Arrival in February 2014, NXT occasionally aired live two-hour episodes on the WWE Network, which effectively serve as the NXT 
+				   equivalent of main roster pay-per-view shows.</p>
+			</section>
+			
+			<aside>
+			         <h3>Pay-Per-Views</h3>
+                     <ul>
+                         <li><a href="http://www.wwe.com/shows/royalrumble"target = "_blank">Royal Rumble</a></li>
+                         <li><a href="http://www.wwe.com/shows/wwefastlane"target = "_blank">Fastlane</a></li>
+                         <li><a href="http://www.wwe.com/shows/wrestlemania"target = "_blank">WrestleMania</a></li>
+                         <li><a href="http://www.wwe.com/shows/extremerules"target = "_blank">Extreme Rules</a></li>
+                         <li><a href="http://www.wwe.com/shows/wwepayback"target = "_blank">Payback</a></li>
+                         <li><a href="http://www.wwe.com/shows/moneyinthebank"target = "_blank">Money in the Bank</a></li>
+                         <li><a href="http://www.wwe.com/shows/wwebattleground"target = "_blank">Battleground</a></li>
+						 <li><a href="http://www.wwe.com/shows/summerslam"target = "_blank">SummerSlam</a></li>
+						 <li><a href="http://www.wwe.com/shows/nightofchampions"target = "_blank">Night of Champions</a></li>
+						 <li><a href="http://www.wwe.com/shows/hellinacell"target = "_blank">Hell in a Cell</a></li>
+						 <li><a href="http://www.wwe.com/shows/survivorseries"target = "_blank">Survivor Series</a></li>
+						 <li><a href="http://www.wwe.com/shows/wwetlc"target = "_blank">Tables, Ladders, and Chairs</a></li>
+                      </ul>
+			</aside>
+			
+			<!-- JAVASCRIPT 6: DYNAMIC FRAME UPDATE -->
+			<iframe src="http://www.wwe.com/shows/raw"></iframe>
+					<iframe src="http://www.wwe.com/shows/smackdown"></iframe>
+					<p><input type="button" onclick ="dynamicFrame() " value =" Change Frame"></p>
+					<script src = "js/main.js"> </script>
+			
+	    </main>
+		
+		<footer> <!-- This is the Footer bar-->
+		        <ul>
+		          <li><a href="http://www.facebook.com/WWE"target = "_blank"><img src="images/facebook-white.png" alt="" height="15" width="15"/></a></li>
+				  <li><a href="http://www.twitter.com/WWE"target = "_blank"><img src="images/twitter-white.png" alt="" height="15" width="15"/></a></li>
+				  <li><a href="http://www.youtube.com/WWE"target = "_blank"><img src="images/youtube-white.png" alt="" height="15" width="15"/></a></li>
+			    </ul>
+		         &copy; Joseph Tierney 2016
+		</footer>
+    </body>
+</html>

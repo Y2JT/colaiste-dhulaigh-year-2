@@ -1,0 +1,11 @@
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\bin\Debug\AgeArray1.exe.config
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\bin\Debug\AgeArray1.exe
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\bin\Debug\AgeArray1.pdb
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\bin\Debug\AgeArray1.xml
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\obj\Debug\AgeArray1.vbprojResolveAssemblyReference.cache
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\obj\Debug\AgeArray1.Form1.resources
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\obj\Debug\AgeArray1.Resources.resources
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\obj\Debug\AgeArray1.vbproj.GenerateResource.Cache
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\obj\Debug\AgeArray1.exe
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\obj\Debug\AgeArray1.xml
+D:\Year 2\Computer Programming\Windows Programming\October Mid Term\AgeArray1\AgeArray1\obj\Debug\AgeArray1.pdb

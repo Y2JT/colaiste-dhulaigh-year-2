@@ -1,0 +1,26 @@
+	int course_number, id, numstudents, mchoice;
+    	String course_name, name, address;
+    	String strnumstudents, strid, strcoursenum;
+
+    	char check1,check2;
+    	String dob = "";
+    	boolean flag = false;
+
+    	String menu1 = "\n1: View Course/Personal Details \n2: Edit Course/Personal Details \n3: Quit";
+    	int choice1;
+    	String strchoice1;
+
+
+while(!strnumstudents.matches("\\d+")){
+    		System.out.println("\nERROR: DIGITS ONLY");
+    		java.awt.Toolkit.getDefaultToolkit().beep();
+    		//reprompt user
+    		System.out.print("Enter Number of Students: ");
+    		strnumstudents = input.next();
+
+
+
+m_app = input.next()
+m_app = m_app.toUpperCase();
+
+while(!(m_app.matches("Y") || m_app.matches("N")
